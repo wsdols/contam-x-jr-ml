@@ -1,3 +1,4 @@
 # CONTAM Results Files
 *.ach
 *.sim
+xsc-*
